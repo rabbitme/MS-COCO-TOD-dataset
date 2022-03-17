@@ -9,4 +9,10 @@ Please refer to 'TODimages.pdf' for some examples in the dataset.
 
 Training set
 
+- [Training set part 1](https://pan.baidu.com/s/1ez3axhVGMb56bpnhecJLoA?pwd=1234)
+
+- [Training set part 2](https://pan.baidu.com/s/1oPPdNMj8x52N8mxIE9DcCg?pwd=1234)
+
+- [Training set part 3](https://pan.baidu.com/s/1HxN4PSpaNHaV52Pu5NQjrg?pwd=1234)
+
 [Validation set](https://pan.baidu.com/s/1ERqxRBGI91PsPF__hKw2Sg?pwd=1234)
